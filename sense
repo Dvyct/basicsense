@@ -13,6 +13,6 @@ Sense.teamSettings.enemy.distance = true
 Sense.teamSettings.enemy.healthBar  = true
 Sense.teamSettings.enemy.healthText  = true
 Sense.teamSettings.enemy.weapon  = false
-Sense.teamSettings.enemy.box3dColor[1] = Color3.new(0, 0.25, 0.75)
+Sense.teamSettings.enemy.box3dColor[1] = Color3.new(1.000000, 0.000000, 0.000000)
 
 Sense.Load()
